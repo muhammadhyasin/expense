@@ -38,7 +38,7 @@
                 </div>
             @endif
 
-            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
+            {{-- <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="flex justify-center">
                         <h1 class="dark:text-white">Expense Tracker</h1>
@@ -67,7 +67,7 @@
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </body>
 </html>
